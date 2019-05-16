@@ -1,2 +1,3 @@
 # demo_git
-une demo pour utiliser git
+une demo pour utiliser git qui est assez simple
+
